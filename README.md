@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hello, I'm Pralay 👋
 
-<!--
-**pralaynaskar/pralaynaskar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 🌍 I'm passionate about Computer.
+- 💼 I currently a Student.
+- 🌱 I'm constantly learning and improving my skills in Programming Languages(C, Java, Python, PHP).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with Me
+
+- 📬 Feel free to reach out to me on [Twitter](https://twitter.com/pn_india).
+
+## Fun Facts
+
+- 🎵 I enjoy listening music.
+- 📚 I'm currently reading syllabus.
+
+## GitHub Stats
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=pralay-naskar&show_icons=true&theme=dark)](https://github.com/pralay-naskar)
