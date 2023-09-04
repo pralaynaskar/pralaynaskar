@@ -1,9 +1,11 @@
 # Hello, I'm Pralay 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=pralaynaskar&color=green)
+
 ## About Me
 
 - 🌍 I'm passionate about Computer.
-- 💼 I currently a Student.
+- 💼 I'm currently a Student.
 - 🌱 I'm constantly learning and improving my skills in Programming Languages(C, Java, Python, PHP).
 
 ## Connect with Me
@@ -17,4 +19,4 @@
 
 ## GitHub Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=pralay-naskar&show_icons=true&theme=dark)](https://github.com/pralay-naskar)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=pralaynaskar&show_icons=true&theme=dark)](https://github.com/pralaynaskar)
