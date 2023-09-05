@@ -22,4 +22,5 @@
 
 ## GitHub Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=pralaynaskar&show_icons=true&theme=dark)](https://github.com/pralaynaskar)
+[![My GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=pralaynaskar&show_icons=true&theme=highcontrast)](https://github.com/pralaynaskar)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pralaynaskar&theme=radical&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats)
