@@ -17,6 +17,7 @@
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-PralayNaskar-blue)](https://www.linkedin.com/in/pralaynaskar/)
 - [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-PralayNaskar-orange)](https://stackoverflow.com/users/22497542/pralay-naskar)
 - [![Reddit Follow](https://img.shields.io/reddit/user-karma/combined/pralay-naskar?style=social)](https://www.reddit.com/user/pralay-naskar)
+- [Open LinkTree](https://www.linktr.ee/npralay)
 
 ## Fun Facts
 
