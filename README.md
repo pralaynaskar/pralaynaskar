@@ -13,7 +13,7 @@
 ## Connect with Me
 
 - 📬 Feel free to reach out to me on [Twitter](https://twitter.com/pn_india).
-- [![Twitter Follow](https://img.shields.io/twitter/follow/pralaynaskar?style=social)](https://twitter.com/pralaynaskar)
+- [![Twitter Follow](https://img.shields.io/twitter/follow/pn_india?style=social)](https://twitter.com/pn_india)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-PralayNaskar-blue)](https://www.linkedin.com/in/pralaynaskar/)
 - [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-PralayNaskar-orange)](https://stackoverflow.com/users/22497542/pralay-naskar)
 - [![Reddit Follow](https://img.shields.io/reddit/user-karma/combined/pralay-naskar?style=social)](https://www.reddit.com/user/pralay-naskar)
