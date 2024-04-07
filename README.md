@@ -16,7 +16,7 @@
 - [![Twitter Follow](https://img.shields.io/twitter/follow/novaxi27?style=social)](https://twitter.com/novaxi27)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-pralaynaskar-blue)](https://www.linkedin.com/in/pralaynaskar/)
 - [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-pralaynaskar-orange)](https://stackoverflow.com/users/22497542/pralay-naskar)
-- [![Reddit Follow](https://img.shields.io/reddit/user-karma/combined/SuperDragonfly27?style=social)](https://www.reddit.com/user/SuperDragonfly27)
+- [![Reddit](https://img.shields.io/badge/reddit-subreddit-orange.svg?style=social&logo=reddit&logoColor=black)](https://www.reddit.com/u/SuperDragonfly27)
 - [Open LinkTree](https://www.linktr.ee/npralay)
 
 ## Fun Facts
