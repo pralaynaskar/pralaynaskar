@@ -12,7 +12,7 @@
 
 ## Connect with Me
 
-- 📬 Feel free to reach out to me on [Twitter](https://twitter.com/pn_india).
+- 📬 Feel free to reach out to me on [Twitter](https://twitter.com/novaxi27).
 - [![Twitter Follow](https://img.shields.io/twitter/follow/novaxi27?style=social)](https://twitter.com/novaxi27)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-pralaynaskar-blue)](https://www.linkedin.com/in/pralaynaskar/)
 - [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-pralaynaskar-orange)](https://stackoverflow.com/users/22497542/pralay-naskar)
