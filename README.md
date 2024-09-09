@@ -10,6 +10,9 @@
 - 💼 I'm currently a Student.
 - 🌱 I'm constantly learning and improving my skills in Programming Languages(C, Java, Python, PHP).
 
+## Languages & Tools
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,anaconda,c,cpp,java,python,github.idea)](https://skillicons.dev)
+
 ## Connect with Me
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-pralaynaskar-blue)](https://www.linkedin.com/in/pralaynaskar/)
@@ -26,3 +29,4 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=pralaynaskar&show_icons=true&theme=highcontrast)](https://github.com/pralaynaskar)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pralaynaskar&theme=radical&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pralaynaskar&layout=compact&theme=codeSTACKr)
+
