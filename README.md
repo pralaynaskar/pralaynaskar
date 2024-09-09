@@ -12,12 +12,8 @@
 
 ## Connect with Me
 
-- 📬 Feel free to reach out to me on [Twitter](https://twitter.com/novaxi27).
-- [![Twitter Follow](https://img.shields.io/twitter/follow/novaxi27?style=social)](https://twitter.com/novaxi27)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-pralaynaskar-blue)](https://www.linkedin.com/in/pralaynaskar/)
 - [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-pralaynaskar-orange)](https://stackoverflow.com/users/22497542/pralay-naskar)
-- [![Reddit](https://img.shields.io/badge/reddit-subreddit-orange.svg?style=social&logo=reddit&logoColor=black)](https://www.reddit.com/u/SuperDragonfly27)
-- [Open LinkTree](https://www.linktr.ee/npralay)
 
 ## Fun Facts
 
