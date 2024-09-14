@@ -2,7 +2,8 @@
 #
 # Hello, I'm Pralay 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=pralaynaskar&color=green)            
+![Profile Views](https://komarev.com/ghpvc/?username=pralaynaskar&color=green) 
+![Github](https://img.shields.io/github/followers/pralaynaskar?style=social&logoColor=blue)
 
 ## About Me
 
