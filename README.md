@@ -25,8 +25,6 @@
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=pralaynaskar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🐍 My Github Contributions eating by Snake 🐍
-![snake gif](https://github.com/pralaynaskar/pralaynaskar/blob/output/github-contribution-grid-snake.gif)
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
